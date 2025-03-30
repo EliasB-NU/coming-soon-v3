@@ -1,0 +1,10 @@
+.idea
+dist
+README.md
+Dockerfile
+docker-stack.yaml
+.dockerignore
+LICENSE
+.github
+.gitignore
+.git

@@ -1,3 +1,6 @@
+# This is a fork for personal use
+I use docker combined with docker stack for deployment. If you have any questions, please open an issue.
+
 # [Start Bootstrap - Coming Soon](https://startbootstrap.com/theme/coming-soon/)
 
 [Coming Soon](https://startbootstrap.com/theme/coming-soon/) is a simple coming soon theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a background video with a mobile background image fallback.
